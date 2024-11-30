@@ -1,0 +1,155 @@
+p.titleperan {
+    text-align: justify;
+    color: white;
+    font-family: 'Hey Comic';
+}
+
+p.aperan {
+    text-align: justify;
+    color: white;
+    font-family: 'Hey Comic';
+}
+
+p.aaperan {
+    text-align: justify;
+    color: pink;
+    font-family: 'Hey Comic';
+}
+
+p.bperan {
+    text-align: justify;
+    color: white;
+    font-family: 'Hey Comic';
+}
+
+p.bbperan {
+    text-align: justify;
+    color: pink;
+    font-family: 'Hey Comic';
+}
+
+p.cperan {
+    text-align: justify;
+    color: white;
+    font-family: 'Hey Comic';
+}
+
+p.ccperan {
+    text-align: justify;
+    color: pink;
+    font-family: 'Hey Comic';
+}
+
+p.dperan {
+    text-align: justify;
+    color: white;
+    font-family: 'Hey Comic';
+}
+
+p.ddperan {
+    text-align: justify;
+    color: pink;
+    font-family: 'Hey Comic';
+}
+
+p.eperan {
+    text-align: justify;
+    color: white;
+    font-family: 'Hey Comic';
+}
+
+p.eeperan {
+    text-align: justify;
+    color: pink;
+    font-family: 'Hey Comic';
+}
+
+p.fperan {
+    text-align: justify;
+    color: white;
+    font-family: 'Hey Comic';
+}
+
+p.ffperan {
+    text-align: justify;
+    color: pink;
+    font-family: 'Hey Comic';
+}
+
+.aaperan {
+    background-color: rgb(255, 255, 255);
+    border: 10px solid lightpink;
+    border-radius: 10px;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 50px;
+    font-family: 'Hey Comic';
+    color: pink;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.bbperan {
+    background-color: rgb(255, 255, 255);
+    border: 10px solid lightpink;
+    border-radius: 10px;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 50px;
+    font-family: 'Hey Comic';
+    color: pink;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.ccperan {
+    background-color: rgb(255, 255, 255);
+    border: 10px solid lightpink;
+    border-radius: 10px;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 50px;
+    font-family: 'Hey Comic';
+    color: pink;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.ddperan {
+    background-color: rgb(255, 255, 255);
+    border: 10px solid lightpink;
+    border-radius: 10px;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 50px;
+    font-family: 'Hey Comic';
+    color: pink;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.eeperan {
+    background-color: rgb(255, 255, 255);
+    border: 10px solid lightpink;
+    border-radius: 10px;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 50px;
+    font-family: 'Hey Comic';
+    color: pink;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.ffperan {
+    background-color: rgb(255, 255, 255);
+    border: 10px solid lightpink;
+    border-radius: 10px;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 50px;
+    font-family: 'Hey Comic';
+    color: pink;
+    cursor: pointer;
+    font-size: 15px;
+}

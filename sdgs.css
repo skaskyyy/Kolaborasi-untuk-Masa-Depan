@@ -1,0 +1,27 @@
+p.titlesdgs{
+    text-align: center;
+    color:rgb(250, 127, 148);
+    font-family: 'Hey Comic';
+    font-size: 20px;
+}
+
+.titlesdgs{
+    background-color: rgb(255, 255, 255);
+    border: 10px solid lightpink;
+    border-radius: 10px;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 50px;
+    font-family: 'Hey Comic';
+    color: rgb(250, 127, 148);
+    cursor: pointer;
+    font-size: 20px;
+    text-align: center;
+    }
+
+p.sdgs{
+    text-align: justify;
+    color:rgb(250, 127, 148);
+    font-family: 'Hey Comic';
+    font-size: 17px;
+}

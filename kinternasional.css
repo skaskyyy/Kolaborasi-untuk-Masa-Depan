@@ -1,0 +1,28 @@
+p.titlekinter{
+    text-align: justify;
+    color:rgb(250, 127, 148);
+    font-family: 'Hey Comic';
+}
+
+p.akinter{
+    text-align: justify;
+    color:rgb(250, 127, 148);
+    font-family: 'Hey Comic';
+}
+
+.column {
+    float: left;
+    padding: 0px 10px;
+}
+
+/* Left column */
+.column.side {
+    width: 20%;
+    background-color: white;
+}
+
+.column.middle {
+    margin: 170px 0px;
+    width: 80%;
+    background-color: white;
+}

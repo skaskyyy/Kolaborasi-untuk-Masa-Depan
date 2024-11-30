@@ -1,0 +1,29 @@
+p.div{
+    text-align: justify;
+    color:rgb(250, 127, 148);
+    font-family: 'Hey Comic';
+}
+
+p.kerjasama{
+    text-align: justify;
+    color:rgb(250, 127, 148);
+    font-family: 'Hey Comic';
+}
+
+p.titlekerjasama{
+    text-align: justify;
+    color:rgb(250, 127, 148);
+    font-family: 'Hey Comic';
+}
+
+p.titletabel{
+    text-align: justify;
+    color:rgb(255, 71, 102);
+    font-family: 'Hey Comic';
+}
+
+a{
+    text-align: justify;
+    color:rgb(255, 255, 255);
+    font-family: 'Hey Comic';
+}

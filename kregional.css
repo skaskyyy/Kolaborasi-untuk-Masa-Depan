@@ -1,0 +1,56 @@
+p.titlekregional{
+    text-align: justify;
+    color:rgb(250, 127, 148);
+    font-family: 'Hey Comic';
+}
+p.kregional{
+    text-align: justify;
+    color:rgb(250, 127, 148);
+    font-family: 'Hey Comic';
+}
+
+p.akregional{
+    text-align: justify;
+    color:rgb(250, 127, 148);
+    font-family: 'Hey Comic';
+}
+
+p.bkregional{
+    text-align: justify;
+    color:rgb(250, 127, 148);
+    font-family: 'Hey Comic';
+}
+
+p.ckregional{
+    text-align: justify;
+    color:rgb(250, 127, 148);
+    font-family: 'Hey Comic';
+}
+
+p.dkregional{
+    text-align: justify;
+    color:rgb(250, 127, 148);
+    font-family: 'Hey Comic';
+}
+
+@font-face {
+    font-family: 'Hey Comic';
+    src: url(Hey\ Comic.otf);
+}
+
+.column {
+    float: left;
+    padding: 0px 10px;
+}
+
+/* Left column */
+.column.side {
+    width: 20%;
+    background-color: white;
+}
+
+.column.middle {
+    margin: 170px 0px;
+    width: 80%;
+    background-color: white;
+}

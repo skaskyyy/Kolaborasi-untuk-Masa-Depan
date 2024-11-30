@@ -1,0 +1,160 @@
+@font-face {
+    font-family: 'Hey Comic';
+    src: url(Hey\ Comic.otf)
+}
+
+p.aekolaut{
+    text-align: justify;
+    color:rgb(250, 127, 148);
+    font-family: 'Hey Comic';
+    font-size: 20px;
+}
+
+
+p.ataa{
+    text-align: justify;
+    color:pink;
+    font-family: 'Hey Comic';
+    font-size: 15px;
+}
+
+p.ata{
+    text-align: justify;
+    color:white;
+    font-family: 'Hey Comic';
+    font-size: 15px;
+}
+
+p.atbb{
+    text-align: justify;
+    color:pink;
+    font-family: 'Hey Comic';
+    font-size: 15px;
+}
+
+p.atb{
+    text-align: justify;
+    color:rgb(255, 234, 238);
+    font-family: 'Hey Comic';
+    font-size: 15px;
+}
+
+.aekolaut{
+    background-color: white;
+    border: 10px solid lightpink;
+    border-radius: 10px;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 50px;
+    font-family: 'Hey Comic';
+    color: rgb(255, 70, 101);
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.ataa{
+    background-color: white;
+    border: 10px solid lightpink;
+    border-radius: 10px;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 50px;
+    font-family: 'Hey Comic';
+    color: rgb(255, 70, 101);
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.atbb{
+    background-color: white;
+    border: 10px solid lightpink;
+    border-radius: 10px;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 50px;
+    font-family: 'Hey Comic';
+    color: rgb(255, 70, 101);
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.atcc{
+    background-color: white;
+    border: 10px solid lightpink;
+    border-radius: 10px;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 50px;
+    font-family: 'Hey Comic';
+    color: rgb(255, 70, 101);
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.atdd{
+    background-color: white;
+    border: 10px solid lightpink;
+    border-radius: 10px;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 50px;
+    font-family: 'Hey Comic';
+    color: rgb(255, 70, 101);
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.atee{
+    background-color: white;
+    border: 10px solid lightpink;
+    border-radius: 10px;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 50px;
+    font-family: 'Hey Comic';
+    color: rgb(255, 70, 101);
+    cursor: pointer;
+    font-size: 15px;
+}
+
+p.atcc{
+    text-align: justify;
+    color:pink;
+    font-family: 'Hey Comic';
+    font-size: 15px;
+}
+
+p.atc{
+    text-align: justify;
+    color:rgb(250, 127, 148);
+    font-family: 'Hey Comic';
+    font-size: 15px;
+}
+
+p.atdd{
+    text-align: justify;
+    color:pink;
+    font-family: 'Hey Comic';
+    font-size: 15px;
+}
+
+p.atd{
+    text-align: justify;
+    color:rgb(250, 92, 118);
+    font-family: 'Hey Comic';
+    font-size: 15px;
+}
+
+p.atee{
+    text-align: justify;
+    color:pink;
+    font-family: 'Hey Comic';
+    font-size: 15px;
+}
+
+p.ate{
+    text-align: justify;
+    color:rgb(253, 57, 90);
+    font-family: 'Hey Comic';
+    font-size: 15px;
+}

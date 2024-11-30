@@ -1,0 +1,97 @@
+.header{
+    width: 1280px;
+    position: fixed;
+}
+/* kode css navigator */
+ul{
+    list-style: none;
+    background: pink;
+    padding: 0px 0px;
+    margin: 120px 0px;
+    position: fixed;
+    width: 1280px;
+    height: 60px; 
+}
+ul li{
+    display: inline-block;
+    position: relative;
+    height: 60px;
+    padding: 10px 5px;
+}
+ul li a{
+    padding: 10px 0px;
+    text-align: center;
+}
+ul a:hover{
+    background-color: palevioletred;
+}
+
+ul li ul.dropdown{
+    background-color: white;
+    position: absolute;
+    display: none;
+    width: auto;
+    height: auto;
+    margin: 0px 0px;
+}
+
+ul li:hover ul.dropdown{
+    display: block;
+}
+
+/* kode css die bar */
+.column{
+    float: left;
+    padding: 0px 10px;
+}
+
+body{
+    background-color: pink;
+    background-size: cover;
+}
+/* */
+
+@font-face {
+    font-family: 'Hey Comic';
+    src: url(Hey\ Comic.otf);
+}
+
+
+p.Perkenalan{
+    text-align: justify;
+    color:pink;
+    font-family: 'Hey Comic';
+}
+
+.so{
+    background-color: white;
+    border: 5px solid lightpink;
+    border-radius: 10px;
+    width: 200px;
+    height: 30px;
+    margin-top: 50px;
+    font-family: 'Hey Comic';
+    color: rgb(255, 70, 101);
+    cursor: pointer;
+    }
+
+.Perkenalan{
+    background-color: rgb(255, 255, 255);
+    border: 10px solid lightpink;
+    border-radius: 10px;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 50px;
+    font-family: 'Hey Comic';
+    color: pink;
+    cursor: pointer;
+    font-size: 15px;
+}
+th{
+    font-family: 'Hey Comic';
+    color: black
+}
+td{
+    font-family:'Hey Comic' ;
+    color: black;
+}
